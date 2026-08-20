@@ -112,6 +112,7 @@
   padding: 0.9rem 2rem;
   border-radius: 12px;
   margin-top: 0.5rem;
+  margin-inline: auto;
   box-shadow: 0 4px 20px rgba(255, 152, 57, 0.3);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
